@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 QA Engineer 🕵
 -----------
 
-My name is Salvador Guzman, a computer science engineer with over 2 years of experience in software testing. I am passionate about quality assurance ,Data and Machine Learning.
+My name is Salvador Guzmán, a computer science engineer with over 2 years of experience in software testing. I am passionate about quality assurance ,Data and Machine Learning.
 
 * 🌍  I'm based in El Salvador
 * 🖥️  See my portfolio at 
 * 🚀  I'm currently working on **Applaudo**
 * 🧠  I'm learning **Microsoft Playwright** , **Data analytics** and **Machine Learning**
 
-### Skills
+### Skills 🤹‍
 
 
 <p align="left">
@@ -34,7 +34,7 @@ My name is Salvador Guzman, a computer science engineer with over 2 years of exp
 </p>
 
 
-### Socials
+### Socials 💼
 
 <p align="left"> 
     <a href="https://www.github.com/later " target="_blank" rel="noreferrer"> 
