@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Salvador Guzmán
 =======================================================================================================================================
 
-QA Engineer 🕵
+Data QA Engineer 🕵
 -----------
 
 My name is Salvador Guzmán, a computer science engineer with over 2 years of experience in software testing. I am passionate about quality assurance ,Data and Machine Learning.
