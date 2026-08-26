@@ -59,7 +59,7 @@ I'm a Data Engineer with a background in building reliable pipelines, tested tra
 ## 📫 Let's connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sguzman95" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/salvador-guzman/ target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
